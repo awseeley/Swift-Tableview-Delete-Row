@@ -39,7 +39,17 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         println("Row \(indexPath.row) selected")
     }
 
-
+    func tableView(tableView: UITableView, canEditRowAtIndexPath indexPath: NSIndexPath) -> Bool {
+        return true
+    }
+    
+    func tableView(tableView: UITableView, commitEditingStyle editingStyle: UITableViewCellEditingStyle, forRowAtIndexPath indexPath: NSIndexPath) {
+        
+        if(editingStyle == UITableViewCellEditingStyle.Delete) {
+            tableData.removeAtIndex(indexPath.row)
+            self.tableView.reloadData()
+        }
+    }
     
     
     

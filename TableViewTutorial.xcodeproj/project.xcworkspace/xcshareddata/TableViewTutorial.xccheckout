@@ -10,6 +10,8 @@
 	<string>TableViewTutorial</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>99CBE9FA086150601C1D9FC110D2BB214C565B9A</key>
+		<string>https://github.com/awseeley/Swift-Tableview-Delete-Row.git</string>
 		<key>F4DACE890028BA0DA0D2A6F2610016E753CED596</key>
 		<string>https://github.com/awseeley/TableViewTutorial.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>TableViewTutorial.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F4DACE890028BA0DA0D2A6F2610016E753CED596</key>
+		<key>99CBE9FA086150601C1D9FC110D2BB214C565B9A</key>
 		<string>../..</string>
+		<key>F4DACE890028BA0DA0D2A6F2610016E753CED596</key>
+		<string>../../../TableViewTutorial</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/awseeley/TableViewTutorial.git</string>
+	<string>https://github.com/awseeley/Swift-Tableview-Delete-Row.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F4DACE890028BA0DA0D2A6F2610016E753CED596</string>
+	<string>99CBE9FA086150601C1D9FC110D2BB214C565B9A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>F4DACE890028BA0DA0D2A6F2610016E753CED596</string>
 			<key>IDESourceControlWCCName</key>
 			<string>TableViewTutorial</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>99CBE9FA086150601C1D9FC110D2BB214C565B9A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TableViewTutorialDeleteRow</string>
 		</dict>
 	</array>
 </dict>
