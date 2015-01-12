@@ -1,12 +1,10 @@
 TableViewTutorial
 =================
-Source code on creating a UITableView in Swift. Using Xcode 6.
+Source code on creating a deleting UITableview Rows in Swift. Using Xcode 6.
 
 Tutorial: 
 
-http://www.seemuapps.com/?p=63
-
-https://www.youtube.com/watch?v=lQekMEM0bNw
+http://www.youtube.com/watch?v=7FyyYVnpXro
 
 Check out our Website: http://www.seemuapps.com
 
